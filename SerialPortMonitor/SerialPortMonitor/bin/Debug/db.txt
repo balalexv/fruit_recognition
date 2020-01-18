@@ -1,0 +1,13 @@
+0	C:\Users\balalexv\fruits photos\bananas.jpg	БАНАНЫ
+1	C:\Users\balalexv\fruits photos\cucumbers.jpg	ОГУРЦЫ ПУПЫРЧАТЫЕ
+2	C:\Users\balalexv\fruits photos\jabloki-rojal-gala.jpg	ЯБЛОКИ РОЯЛ ГАЛА
+3	C:\Users\balalexv\fruits photos\golden3.jpg	ЯБЛОКИ ГОЛДЕН
+4	C:\Users\balalexv\fruits photos\jabloki-grenni-smit.jpg	ЯБЛОКИ ГРЕННИ СМИТ
+5	C:\Users\balalexv\fruits photos\black-grape.jpg	ВИНОГРАД ЧЕРНЫЙ
+6	C:\Users\balalexv\fruits photos\grapefruit.jpg	ГРЕЙПФРУТ БЕЛЫЙ
+7	C:\Users\balalexv\fruits photos\lady.jpg	ВИНОГРАД ДАМСКИЕ ПАЛЬЧИКИ
+8	C:\Users\balalexv\fruits photos\lemon.jpg	ЛИМОН
+9	C:\Users\balalexv\fruits photos\bolgarskiy_perec_kaloriynost_0.jpg.crop_display.jpg	ПЕРЕЦ КРАСНЫЙ
+10	C:\Users\balalexv\fruits photos\perec-geltuy.jpg	ПЕРЕЦ ЖЕЛТЫЙ
+11	C:\Users\balalexv\fruits photos\sultana.jpg	ВИНОГРАД КИШ-МИШ
+12	C:\Users\balalexv\fruits photos\plum.jpg	ПОМИДОРЫ СЛИВКА
